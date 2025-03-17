@@ -7,8 +7,6 @@ Este repositório contém um projeto desenvolvido como parte da disciplina **Des
 - 📱 **Layout responsivo** para diferentes dispositivos
 - 🎨 **Estilização avançada** utilizando CSS
 - 🖱️ **Interatividade** através de JavaScript
-- 🔳 **Modais dinâmicos** para exibição de informações extras
-- 🌎 **Navegação intuitiva** com uma barra de menu bem organizada
 
 ## 🎯 Objetivo
 
@@ -19,7 +17,6 @@ O projeto tem como foco consolidar o aprendizado sobre **estruturação de pági
 Durante o desenvolvimento deste projeto, enfrentei alguns desafios, incluindo:
 
 - **Ajustar o layout responsivo** para garantir uma boa experiência em diferentes tamanhos de tela.
-- **Implementar modais dinâmicos** que abrem e fecham corretamente sem afetar a navegação.
 - **Gerenciar o posicionamento do rodapé**, garantindo que ele fique sempre fixo na parte inferior da página sem sobrepor o conteúdo.
 
 ## 🛠️ Tecnologias Utilizadas
